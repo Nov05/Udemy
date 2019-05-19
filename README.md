@@ -2,8 +2,12 @@
 
 Go to Udemy: https://www.udemy.com/
 
-### :point_right:【Courses】
+### :point_right:【SAP】
 
 2019-05-19  
 - [ ] [SAP BW 7.4 ZERO TO HERO - MODELING](https://www.udemy.com/share/101aKyBkIec1tQR3o=/) (55 lectures, 11 hours)  
 - [ ] [SAP BI /SAP Business Objects Web Intelligence](https://www.udemy.com/share/101aKABkIec1tQR3o=/) (26 lectures, 4 hours)  
+
+### :point_right:【Data Science】
+
+- [ ] [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/share/100YASBkIec1tQR3o=/) (436 lectures, 26 hours)  
