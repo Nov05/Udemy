@@ -11,4 +11,5 @@ Go to Udemy: https://www.udemy.com/
 
 ### :point_right:【Data Science】
 
+2019-05-19  
 - [ ] [The Data Science Course 2019: Complete Data Science Bootcamp](https://www.udemy.com/share/100YASBkIec1tQR3o=/) (436 lectures, 26 hours)  
