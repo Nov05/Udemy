@@ -1,0 +1,5 @@
+﻿
+
+### 21. Material Master Grouping
+
+IMG Menu Path :- SPRO > Logistic general > Material Master > Settings for Key Fields > Define Material Group 【OMSF】
