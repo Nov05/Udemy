@@ -3,3 +3,44 @@
 ### 21. Material Master Grouping
 
 IMG Menu Path :- SPRO > Logistic general > Material Master > Settings for Key Fields > Define Material Group 【OMSF】
+
+18 characters  
+product hierarchy: 5 + 5 + 8
+
+Quiz:   
+Customer account group can be used for  
+- assigning number ranges to customer master  
+Which of the following is true regarding partial delivery?  
+- deliveries created for only part of the order quantity  
+Which of the following is true regarding sales group?  
+- a customer can have multiple sales groups associated with it. [FALSE]  
+- sales groups can be used for reporting. [TRUE]     
+- sales groups can be used to trigger invoice splitting. [FALSE]   
+
+
+### 22. Customer Master Customization
+
+Maintain field status group  
+number range intervals, internal or external
+
+### 23. Not able to find sales view of the cutomser master
+
+【VD02】 maintain sales areas by customer
+
+### 24. Blocking customer master data
+
+【VD05】
+
+Why does a customer get blocked?  
+- Regularly defaulting payments  
+- Regulatory or compliance issue  
+
+block a customer with certain sales org., distr.channel and division  
+- order block  
+- delivery block  
+- billing block  
+- block sales support   
+
+config blocking reasons   
+e.g. assign block "01" -> order type "OR"   
+
