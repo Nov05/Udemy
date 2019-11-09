@@ -1,4 +1,37 @@
-﻿
+
+
+### 19. Material Master -2 Important Fields
+
+【MM01】
+
+Material Master:
+Basic Data 1
+Sales: Sales Org. Data 1
+Sales: Sales Org. Data 2
+Sales: General/Plant Data
+MRP 1
+Account 1
+(General Plant Data/Storage 1)
+
+Material Types:
+FERN - Finished product
+DIEN - Service 
+
+sales unit
+manufacturing unit
+purchasing unit
+(maintain the conversion between units)
+
+delivering plant
+
+### 20. Material Master Grouping
+
+Material Group (Basic data 1, Sales Org. 1)
+Sales Material Group
+Product Hierarchy 
+
+sales org. 2: sales group 1,2,3...
+product hierarchy for M-01: 00125,00100,00000100
 
 ### 21. Material Master Grouping
 
